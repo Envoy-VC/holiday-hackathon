@@ -8,6 +8,6 @@ Players can grow crops, interact with NPCs, trade at the market, and participate
   Player Village: A personal farming space where players can plant, harvest, and manage their resources.
 - Sproutsville seamlessly integrates gameplay and blockchain mechanics to create a unique and enjoyable introduction to the Lens ecosystem.
 
-- Source Code Link: [Envoy-VC/sproutsville-lens-winter-hackathon](https://github.com/Envoy-VC/sproutsville-lens-winter-hackathon)
+- Source Code Link: [Envoy-VC/sproutsville-lens-holiday-hackathon](https://github.com/Envoy-VC/sproutsville-lens-holiday-hackathon)
 - Preview Link [sproutsville.vercel.app](https://sproutsville.vercel.app):
 - Demo Video: [youtube.com/watch?v=IT1uPAZPyS0](https://www.youtube.com/watch?v=IT1uPAZPyS0)
